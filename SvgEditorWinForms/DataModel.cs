@@ -16,7 +16,7 @@ namespace SvgDemoWinForms
 
     public class GroupModel : ElementModel
     {
-        public List<ElementModel> Elements { get; }
+        public List<ElementModel> Elements { get; set; }
             = new ();
     }
 
