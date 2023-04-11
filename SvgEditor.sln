@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SvgEditorWinForms", "SvgEditorWinForms\SvgEditorWinForms.csproj", "{171F601D-7378-41E0-A7E0-2672D65416B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SvgEditorTests", "SvgEditorTests\SvgEditorTests.csproj", "{8E035907-2676-49FE-8A0E-F8E9AC267C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{171F601D-7378-41E0-A7E0-2672D65416B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171F601D-7378-41E0-A7E0-2672D65416B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171F601D-7378-41E0-A7E0-2672D65416B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171F601D-7378-41E0-A7E0-2672D65416B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E035907-2676-49FE-8A0E-F8E9AC267C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E035907-2676-49FE-8A0E-F8E9AC267C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E035907-2676-49FE-8A0E-F8E9AC267C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E035907-2676-49FE-8A0E-F8E9AC267C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB00787-FBE3-47C4-A06D-1312CE14CC72}
+	EndGlobalSection
+EndGlobal
